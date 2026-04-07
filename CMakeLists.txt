@@ -4,5 +4,4 @@ project(Tarea_1)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Tensor.cpp
-        Tensor.cpp
         main.cpp)
